@@ -5,6 +5,7 @@ This is here so that the IDEs don't redden up.
 */
 
 #include <algorithm>
+#include <list>
 #include <queue>
 #include <stack>
 #include <string>
